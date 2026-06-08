@@ -3,7 +3,7 @@ import type { Testimonial } from "@/types";
 export const testimonials: Testimonial[] = [
   {
     id: "1",
-    name: "Amara Osei",
+    name: "mario kimanzu",
     role: "CEO & Founder",
     company: "TechBridge Africa",
     avatar: "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=100&q=80",

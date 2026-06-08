@@ -56,19 +56,6 @@ export default function AboutSection() {
                 are fast, intuitive, and memorable.
               </p>
             </AnimatedSection>
-
-            <AnimatedSection delay={0.4}>
-              <div className="pt-2 space-y-3">
-                <h3 className="font-display font-semibold text-white">Career Vision</h3>
-                <p className="text-slate-400 leading-relaxed">
-                  My goal is to build a globally recognized creative studio that helps
-                  African businesses compete on the world stage — through exceptional
-                  technology and design. I&apos;m actively growing toward that vision, one
-                  project at a time.
-                </p>
-              </div>
-            </AnimatedSection>
-
             {/* Quick facts */}
             <AnimatedSection delay={0.5}>
               <div className="flex flex-wrap gap-4 pt-2">
